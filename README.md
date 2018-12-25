@@ -1,5 +1,7 @@
 # Codewars
 
+[![vvscode at codewars](https://www.codewars.com/users/vvscode/badges/large 'vvscodewars')](https://www.codewars.com/users/vvscode)
+
 It uses [codewars-client](https://github.com/shime/codewars)
 
 Flow:
